@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1430106621 source:c:\users\leonel\documents\organizacion de archivos\tarea1\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+
